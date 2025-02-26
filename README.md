@@ -42,7 +42,9 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
  Both waterfall and agile have their strengths and weaknesses. waterfall is great for structured projects with fixed requirements while Agile is ideal for dynamic , customer driven software development. 
  
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+A software developer is responsible for designing coding and implementing software solutions based on project requirements . some responsibilities include ; writing clean efficient and maintainable code , collaborating with designers testers and product managers ,debugging and troubleshooting software issues , implementing new features and optimising existing ones 
+A Quality Assurance engineer ensures that the software products meet quality standards by identifying bugs and improving performance before release. some responsibilities include ; designing and executing test cases , identifying documenting and tracking software bugs , performing different types of testing e.g unit integration, regression and performance
+Product manager defines the software vision , prioritises  features and  ensures the final product meets business and user needs . key responsibilities include gathering and analysing customer requirements , defining the product roadmap and prioritising features , communication between developers , designers and stakeholder. 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
